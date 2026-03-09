@@ -1,2 +1,2 @@
-# pro-epsilon
+# prj-epsilon
 Project epsilon
