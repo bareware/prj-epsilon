@@ -1,0 +1,3 @@
+[submodule "firmware/modules/mod-mcu"]
+	path = firmware/modules/mod-mcu
+	url = git@github.com:bareware/mod-mcu.git
